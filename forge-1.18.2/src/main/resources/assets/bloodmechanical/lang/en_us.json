@@ -1,0 +1,8 @@
+{
+  "block.bloodmechanical.mechanical_altar": "Mechanical Blood Altar",
+  "item.bloodmechanical.mechanical_altar": "Mechanical Blood Altar",
+  "container.bloodmechanical.mechanical_altar": "Mechanical Blood Altar",
+  "itemGroup.bloodmechanical": "Blood Magic Mechanical",
+  "gui.bloodmechanical.input": "Input",
+  "gui.bloodmechanical.output": "Output"
+}

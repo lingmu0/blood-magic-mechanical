@@ -1,0 +1,18 @@
+.gradle/
+**/.gradle/
+**/build/
+**/run/
+**/run-data/
+
+# IDE state and local Python caches
+.idea/
+**/.idea/
+__pycache__/
+*.py[cod]
+
+# CurseForge upload staging and release binaries
+/release/
+
+# OS metadata
+.DS_Store
+Thumbs.db

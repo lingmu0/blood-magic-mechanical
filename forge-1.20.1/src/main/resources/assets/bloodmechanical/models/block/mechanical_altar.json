@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "bloodmechanical:block/mechanical_altar_side",
+    "down": "bloodmechanical:block/mechanical_altar_bottom",
+    "up": "bloodmechanical:block/mechanical_altar_top",
+    "north": "bloodmechanical:block/mechanical_altar_side",
+    "east": "bloodmechanical:block/mechanical_altar_side",
+    "south": "bloodmechanical:block/mechanical_altar_side",
+    "west": "bloodmechanical:block/mechanical_altar_side"
+  }
+}

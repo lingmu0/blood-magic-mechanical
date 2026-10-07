@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:smithing",
+  "base": { "item": "bloodmagic:altar" },
+  "addition": { "item": "minecraft:netherite_ingot" },
+  "result": { "item": "bloodmechanical:mechanical_altar" }
+}
